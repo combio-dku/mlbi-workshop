@@ -37,7 +37,6 @@
 10. &nbsp;&nbsp; [실습 9 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_09_RNN_seq_pred.ipynb): RNN 기반 sequence prediction (시계열 데이터 예측)
 11. &nbsp;&nbsp; [실습 10 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_10_RNN_hihello.ipynb): RNN Sentence prediction (다음 문자열 예측)
 12. &nbsp;&nbsp; [실습 11 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_11_cifar10_masked_image_reconstruction.ipynb): Transformer application: masked image reconstruction
-
 13. &nbsp;&nbsp; [실습 12 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_12_wikitext2_masked_language_modeling.ipynb): Transformer application: WikiText-2 기반 Masked Language Modeling (서브워드 토큰화, 가려진 토큰 복원)
 
 - &nbsp;&nbsp; [실습 A1 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_02_regression_G2F_gridsearch.ipynb): Genome-to-Field 회귀분석 예제
