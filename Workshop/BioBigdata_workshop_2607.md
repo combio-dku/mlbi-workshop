@@ -34,6 +34,10 @@
 3. &nbsp;&nbsp; [__TCGA-BRCA cohort:__](http://firebrowse.org/?cohort=BRCA) 1000명 이상의 유방암 환자에 대한 유전자 발현량, SNP 목록 등 조직 정보 + 임상정보 
 4. &nbsp;&nbsp; [__Quantum Machine 9 (QM9):__](https://www.kaggle.com/datasets/zaharch/quantum-machine-9-aka-qm9) 13만종 이상의 저분자 화합물에 대한 SMILES code 및 분자 특성 측정 데이터 
 
+## 강의자료
+1. &nbsp;&nbsp; 강의자료1: [프로그램 소개](https://drive.google.com/file/d/1Ue2k6wCL6Vkkls7AyEUUyjl0DCJkjqHP/view?usp=sharing)
+
+
 ## 참고 교재
 
 본 워크숍은 **『기계학습과 인공신경망: Wikipedia로 배우는 기초이론』**을 참고 교재로 사용합니다. 
@@ -43,8 +47,3 @@
 - **도서 정보 및 표지 출처:** [YES24](https://www.yes24.com/Product/Goods/142770984)
 
 <img src="../Docs/images/machine-learning-and-artificial-neural-networks.jpg" alt="기계학습과 인공신경망: Wikipedia로 배우는 기초이론 — 윤석현, 김동재 저, 홍릉" width="300" />
-
-
-## 강의자료
-1. &nbsp;&nbsp; 강의자료1: [프로그램 소개](https://drive.google.com/file/d/1Ue2k6wCL6Vkkls7AyEUUyjl0DCJkjqHP/view?usp=sharing)
-
