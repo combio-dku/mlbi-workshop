@@ -5,6 +5,16 @@
 
 > **노트북 실행 안내:** 아래 노트북 링크는 이 저장소의 `Notebooks/` 파일을 엽니다. Google Colab에서 실행하려면 노트북을 다운로드한 후 Colab의 **파일 → 노트북 열기 → 업로드**에서 선택하세요. 로컬에서는 JupyterLab 또는 Jupyter Notebook으로 열 수 있습니다.
 
+## 교재
+
+본 워크숍은 **『기계학습과 인공신경망: Wikipedia로 배우는 기초이론』**을 교재로 사용합니다. 교재의 이론 설명과 함께 아래 Jupyter Notebook을 활용하여 실습을 진행합니다.
+
+- **저자:** 윤석현, 김동재
+- **출판사:** 홍릉
+- **도서 정보 및 표지 출처:** [YES24](https://www.yes24.com/Product/Goods/142770984)
+
+<img src="../Docs/images/machine-learning-and-artificial-neural-networks.jpg" alt="기계학습과 인공신경망: Wikipedia로 배우는 기초이론 — 윤석현, 김동재 저, 홍릉" width="300" />
+
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다), __Google 계정__
 - __사용 언어:__ &nbsp;&nbsp; python3 &nbsp; (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
