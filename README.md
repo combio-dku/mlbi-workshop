@@ -23,7 +23,12 @@ Each workshop page provides prerequisites, an outline, and links to the correspo
 3. For **Google Colab**, download the notebook and upload it through **File → Open notebook → Upload**. Sign in with a Google account and connect to a runtime.
 4. Run the notebook's setup and data-loading cells, then work through the exercises in order. Follow any notebook-specific instructions for the runtime, package versions, and input files.
 
-For **local execution**, clone or download the repository and open the notebooks in JupyterLab or Jupyter Notebook. `Anaconda_environment_setting.md` contains Korean instructions for Anaconda, conda environments, and an R kernel. Most exercises use Python; the KEGG Pathview exercises use R. Dependencies vary by notebook, so use the setup instructions supplied with each exercise.
+For **local execution**, clone or download the repository and use the setup guides below (both in Korean):
+
+- [Anaconda and Jupyter setup](Anaconda_environment_setting.md): Install Anaconda, create a conda environment, and set up Python or R for running notebooks locally. This setup is not needed when using Google Colab.
+- [VS Code and AI assistant setup](VSCode_AI_assistant_setting.md): Install VS Code, connect Codex or Claude Code with a paid subscription account, and select a Jupyter kernel for local practice. This is an optional setup for participants who want to work in VS Code with an AI coding assistant.
+
+Most exercises use Python; the KEGG Pathview exercises use R. Dependencies vary by notebook, so use the setup instructions supplied with each exercise.
 
 Basic Python knowledge is expected for the machine learning and biological big data workshops. Statistics and linear algebra are helpful. The bioinformatics and single-cell workshops also assume relevant biology or genomics background; familiarity with Linux shell commands is useful for sequencing workflows.
 
@@ -33,6 +38,7 @@ Basic Python knowledge is expected for the machine learning and biological big d
 mlbi-workshop/
 ├── README.md
 ├── Anaconda_environment_setting.md
+├── VSCode_AI_assistant_setting.md
 ├── Workshop/       # Workshop guides and notebook links
 ├── Notebooks/      # Python and R practice notebooks
 └── Docs/           # Supporting materials, including the KOTHEA preparation PDF
