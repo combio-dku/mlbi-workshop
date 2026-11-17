@@ -3,7 +3,7 @@
 - __교육 대상:__ &nbsp;&nbsp; Python을 이용해 데이터 분석, 기계학습, 딥러닝 기초 실습을 진행하려는 학부생, 대학원생, 연구원
 - __교육 목표:__ &nbsp;&nbsp; 데이터프레임 처리, 시각화, 차원축소, 회귀, 분류, 인공신경망, CNN, RNN의 기본 원리를 실습하고 실제 데이터 분석 문제에 적용할 수 있도록 한다
 
-> **노트북 실행 안내:** 아래 노트북 링크는 이 저장소의 `Notebooks/` 파일을 엽니다. Google Colab에서 실행하려면 노트북을 다운로드한 후 Colab의 **파일 → 노트북 열기 → 업로드**에서 선택하세요. 로컬에서는 JupyterLab 또는 Jupyter Notebook으로 열 수 있습니다.
+> **노트북 실행 안내:** 아래 노트북 링크를 클릭하면 이 저장소의 실습 파일이 Google Colab에서 바로 열립니다. Google 계정으로 로그인한 뒤 **연결** 버튼을 눌러 실습을 시작하세요. 수정 내용을 보관하려면 **파일 → 드라이브에 사본 저장**을 이용하세요. 로컬 실행은 저장소의 `Notebooks/` 파일을 JupyterLab 또는 Jupyter Notebook으로 열면 됩니다.
 
 ## 교재
 
@@ -25,20 +25,20 @@
   - __권장:__ 학부 비전공자 수준의 선형대수 (벡터 행렬)
 
 ## 실습 자료
-1. &nbsp;&nbsp; [실습 1 주피터 노트북](../Notebooks/ML_practice_01_dataframe_basic_stats_vis_dimred_clustering.ipynb): DataFrame, 기초 통계량, 시각화, 차원축소, 클러스터링
-2. &nbsp;&nbsp; [실습 2 주피터 노트북](../Notebooks/ML_practice_02_regression_ex.ipynb): 회귀분석 예제
-3. &nbsp;&nbsp; [실습 3 주피터 노트북](../Notebooks/ML_practice_03_linear_prediction.ipynb): 선형 예측 모형 실습 (시계열 데이터 예측)
-4. &nbsp;&nbsp; [실습 4 주피터 노트북](../Notebooks/ML_practice_04_House_prices_prediction_v03.ipynb): 주택 가격 예측 실습 (범주형 데이터의 맵핑 실습)
-5. &nbsp;&nbsp; [실습 5A 주피터 노트북](../Notebooks/ML_practice_05a_classification_ex_plus_ROC.ipynb): 분류 모형과 ROC/AUC 분석 (혈액 바이오 마커를 이용한 암진단)
-6. &nbsp;&nbsp; [실습 5B 주피터 노트북](../Notebooks/ML_practice_05b_classification_ex_plus_ROC.ipynb): 분류 모형과 ROC/AUC 분석 (필기체 숫자 이미지)
-7. &nbsp;&nbsp; [실습 6 주피터 노트북](../Notebooks/ML_practice_06_classification_ex_plus_ROC_heart_failure.ipynb): 심부전 데이터 분류와 ROC/AUC 분석 예제
-8. &nbsp;&nbsp; [실습 7 주피터 노트북](../Notebooks/ML_practice_07_Neural_Net_ex.ipynb): 인공신경망 기초 실습 (필기체 숫자 이미지)
-9. &nbsp;&nbsp; [실습 8 주피터 노트북](../Notebooks/ML_practice_08_CNN.ipynb): CNN 기초 실습 (필기체 숫자 이미지)
-10. &nbsp;&nbsp; [실습 9 주피터 노트북](../Notebooks/ML_practice_09_RNN_seq_pred.ipynb): RNN 기반 sequence prediction (시계열 데이터 예측)
-11. &nbsp;&nbsp; [실습 10 주피터 노트북](../Notebooks/ML_practice_10_RNN_hihello.ipynb): RNN Sentence prediction (다음 문자열 예측)
-12. &nbsp;&nbsp; [실습 11 주피터 노트북](../Notebooks/ML_practice_11_cifar10_masked_image_reconstruction.ipynb): Transformer application: masked image reconstruction
+1. &nbsp;&nbsp; [실습 1 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_01_dataframe_basic_stats_vis_dimred_clustering.ipynb): DataFrame, 기초 통계량, 시각화, 차원축소, 클러스터링
+2. &nbsp;&nbsp; [실습 2 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_02_regression_ex.ipynb): 회귀분석 예제
+3. &nbsp;&nbsp; [실습 3 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_03_linear_prediction.ipynb): 선형 예측 모형 실습 (시계열 데이터 예측)
+4. &nbsp;&nbsp; [실습 4 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_04_House_prices_prediction_v03.ipynb): 주택 가격 예측 실습 (범주형 데이터의 맵핑 실습)
+5. &nbsp;&nbsp; [실습 5A 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_05a_classification_ex_plus_ROC.ipynb): 분류 모형과 ROC/AUC 분석 (혈액 바이오 마커를 이용한 암진단)
+6. &nbsp;&nbsp; [실습 5B 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_05b_classification_ex_plus_ROC.ipynb): 분류 모형과 ROC/AUC 분석 (필기체 숫자 이미지)
+7. &nbsp;&nbsp; [실습 6 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_06_classification_ex_plus_ROC_heart_failure.ipynb): 심부전 데이터 분류와 ROC/AUC 분석 예제
+8. &nbsp;&nbsp; [실습 7 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_07_Neural_Net_ex.ipynb): 인공신경망 기초 실습 (필기체 숫자 이미지)
+9. &nbsp;&nbsp; [실습 8 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_08_CNN.ipynb): CNN 기초 실습 (필기체 숫자 이미지)
+10. &nbsp;&nbsp; [실습 9 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_09_RNN_seq_pred.ipynb): RNN 기반 sequence prediction (시계열 데이터 예측)
+11. &nbsp;&nbsp; [실습 10 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_10_RNN_hihello.ipynb): RNN Sentence prediction (다음 문자열 예측)
+12. &nbsp;&nbsp; [실습 11 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_11_cifar10_masked_image_reconstruction.ipynb): Transformer application: masked image reconstruction
 
-- &nbsp;&nbsp; [실습 A1 주피터 노트북](../Notebooks/ML_practice_02_regression_G2F_gridsearch.ipynb): Genome-to-Field 회귀분석 예제
+- &nbsp;&nbsp; [실습 A1 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/ML_practice_02_regression_G2F_gridsearch.ipynb): Genome-to-Field 회귀분석 예제
 
 ## 사용할 데이터 셋
 1. &nbsp;&nbsp; 각 실습 노트북에서 제공하거나 Colab 실행 중 다운로드하는 예제 데이터 셋을 사용합니다.

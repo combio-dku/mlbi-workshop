@@ -3,7 +3,7 @@
 - __교육 대상:__ &nbsp;&nbsp; 생명과학/의학분야 학부 졸업생, 대학원생, 관련분야 연구원 (범부처통합바이오헬스협회 바이오전문인력양성 과정 수강생)
 - __교육 목표:__ &nbsp;&nbsp; 기계학습과 인공신경망 모형을 바이오 빅데이터 분석에 활용하기 위한 이론과 실습을 제공하고 소규모 프로젝트의 수행을 통해 실제 데이터 분석에 스스로 활용할 수 있도록 한다
 
-> **노트북 실행 안내:** 아래 노트북 링크는 이 저장소의 `Notebooks/` 파일을 엽니다. Google Colab에서 실행하려면 노트북을 다운로드한 후 Colab의 **파일 → 노트북 열기 → 업로드**에서 선택하세요. 로컬에서는 JupyterLab 또는 Jupyter Notebook으로 열 수 있습니다.
+> **노트북 실행 안내:** 아래 노트북 링크를 클릭하면 이 저장소의 실습 파일이 Google Colab에서 바로 열립니다. Google 계정으로 로그인한 뒤 **연결** 버튼을 눌러 실습을 시작하세요. 수정 내용을 보관하려면 **파일 → 드라이브에 사본 저장**을 이용하세요. 로컬 실행은 저장소의 `Notebooks/` 파일을 JupyterLab 또는 Jupyter Notebook으로 열면 됩니다.
 
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다), __Google 계정__
@@ -16,16 +16,16 @@
   - __권장:__ 학부 비전공자 수준의 선형대수 (벡터 행렬) 
 
 ## 실습 자료
-1. &nbsp;&nbsp; [실습 1A 주피터 노트북](../Notebooks/bio_bigdata_workshop_1A_python_pandas_visualization_practice.ipynb): Python, pandas bridge practice 및 데이터 시각화
-2. &nbsp;&nbsp; [실습 1B 주피터 노트북](../Notebooks/bio_bigdata_workshop_1B_stats_dimred_clustering_imputation_practice.ipynb): 통계검정, 상관분석, 차원축소, 군집화, 결측치 처리
-3. &nbsp;&nbsp; [실습 2A 주피터 노트북](../Notebooks/bio_bigdata_workshop_2A_regression_practice.ipynb): 항암제 반응성 예측 (유전자 반현량 기반) 
-4. &nbsp;&nbsp; [실습 2B 주피터 노트북](../Notebooks/bio_bigdata_workshop_2B_regression_practice_with_mutation.ipynb): 항암제 반응성 예측 (유전자 반현량 + 변이 정보 기반) 
-5. &nbsp;&nbsp; [실습 3A 주피터 노트북](../Notebooks/bio_bigdata_workshop_3A_classification_practice_cancerseek.ipynb): 혈액 바이오마커 기반 암진단 및 암종판별 
-6. &nbsp;&nbsp; [실습 3B 주피터 노트북](../Notebooks/bio_bigdata_workshop_3B_classification_practice_tcga_brca.ipynb): 유방암 수용체 상태 판별 (유전자 발현량 기반)
-7. &nbsp;&nbsp; [실습 4A 주피터 노트북](../Notebooks/bio_bigdata_workshop_4A_ANN_classifier_cancerseek.ipynb): 혈액 바이오마커 기반 암진단 및 암종판별을 위한 인공 신경망 응용
-8. &nbsp;&nbsp; [실습 4B 주피터 노트북](../Notebooks/bio_bigdata_workshop_4B_ANN_regressor_ccle_ctrpv2.ipynb): 항암제 반응성 예측을 위한 인공 신경망 응용 (유전자 발현량 + 변이 정보 기반)
-9. &nbsp;&nbsp; [실습 5A 주피터 노트북](../Notebooks/bio_bigdata_workshop_5A_qm9_smiles_representation_learning.ipynb): Transformer 모형을 이용한 저분자 화합물 표현 학습 (SMILES code 기반)
-10. &nbsp;&nbsp; [실습 5B 주피터 노트북](../Notebooks/bio_bigdata_workshop_5B_ANN_regressor_ccle_ctrpv2_with_embedding.ipynb): 분자 임베딩을 이용한 항암제 반응성 예측
+1. &nbsp;&nbsp; [실습 1A 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_1A_python_pandas_visualization_practice.ipynb): Python, pandas bridge practice 및 데이터 시각화
+2. &nbsp;&nbsp; [실습 1B 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_1B_stats_dimred_clustering_imputation_practice.ipynb): 통계검정, 상관분석, 차원축소, 군집화, 결측치 처리
+3. &nbsp;&nbsp; [실습 2A 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_2A_regression_practice.ipynb): 항암제 반응성 예측 (유전자 반현량 기반)
+4. &nbsp;&nbsp; [실습 2B 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_2B_regression_practice_with_mutation.ipynb): 항암제 반응성 예측 (유전자 반현량 + 변이 정보 기반)
+5. &nbsp;&nbsp; [실습 3A 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_3A_classification_practice_cancerseek.ipynb): 혈액 바이오마커 기반 암진단 및 암종판별
+6. &nbsp;&nbsp; [실습 3B 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_3B_classification_practice_tcga_brca.ipynb): 유방암 수용체 상태 판별 (유전자 발현량 기반)
+7. &nbsp;&nbsp; [실습 4A 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_4A_ANN_classifier_cancerseek.ipynb): 혈액 바이오마커 기반 암진단 및 암종판별을 위한 인공 신경망 응용
+8. &nbsp;&nbsp; [실습 4B 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_4B_ANN_regressor_ccle_ctrpv2.ipynb): 항암제 반응성 예측을 위한 인공 신경망 응용 (유전자 발현량 + 변이 정보 기반)
+9. &nbsp;&nbsp; [실습 5A 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_5A_qm9_smiles_representation_learning.ipynb): Transformer 모형을 이용한 저분자 화합물 표현 학습 (SMILES code 기반)
+10. &nbsp;&nbsp; [실습 5B 주피터 노트북](https://colab.research.google.com/github/combio-dku/mlbi-workshop/blob/main/Notebooks/bio_bigdata_workshop_5B_ANN_regressor_ccle_ctrpv2_with_embedding.ipynb): 분자 임베딩을 이용한 항암제 반응성 예측
 
 ## 사용할 데이터 셋
 1. &nbsp;&nbsp; [__CCLE:__](https://depmap.org/portal/) 800종 이상의 암세포주 유전자 발현량 데이터 

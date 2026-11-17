@@ -19,8 +19,8 @@ Each workshop page provides prerequisites, an outline, and links to the correspo
 ## Getting started
 
 1. Choose a workshop above and review its prerequisites and exercise order.
-2. Open a notebook from the workshop page. The links point to files in this repository's `Notebooks/` directory.
-3. For **Google Colab**, download the notebook and upload it through **File → Open notebook → Upload**. Sign in with a Google account and connect to a runtime.
+2. Click a notebook link on the workshop page to open the corresponding file from this repository directly in **Google Colab**.
+3. Sign in with a Google account and connect to a runtime. To keep your changes, use **File → Save a copy in Drive**.
 4. Run the notebook's setup and data-loading cells, then work through the exercises in order. Follow any notebook-specific instructions for the runtime, package versions, and input files.
 
 For **local execution**, clone or download the repository and use the setup guides below (both in Korean):
