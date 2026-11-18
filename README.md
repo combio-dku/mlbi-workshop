@@ -32,18 +32,6 @@ Most exercises use Python; the KEGG Pathview exercises use R. Dependencies vary 
 
 Basic Python knowledge is expected for the machine learning and biological big data workshops. Statistics and linear algebra are helpful. The bioinformatics and single-cell workshops also assume relevant biology or genomics background; familiarity with Linux shell commands is useful for sequencing workflows.
 
-## Repository layout
-
-```text
-mlbi-workshop/
-├── README.md
-├── Anaconda_environment_setting.md
-├── VSCode_AI_assistant_setting.md
-├── Workshop/       # Workshop guides and notebook links
-├── Notebooks/      # Python and R practice notebooks
-└── Docs/           # Supporting materials, including the KOTHEA preparation PDF
-```
-
 ## Data and exercise dependencies
 
 Many notebooks download example data through their setup cells or dataset utilities. Some require additional files, Google Drive access, or outputs from an earlier exercise. Check the data-loading section before starting; the repository does not bundle all required datasets.
