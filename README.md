@@ -12,7 +12,7 @@ Each workshop page provides prerequisites, an outline, and links to the correspo
 | --- | --- |
 | [Machine Learning](Workshop/ML_workshop_2603.md) | DataFrames, visualization, statistics, dimensionality reduction, clustering, regression, classification, ROC/AUC, neural networks, CNNs, RNNs, and Transformer-based image reconstruction and masked language modeling. Includes Genome-to-Field regression exercises. |
 | [Bioinformatics](Workshop/BI_workshop_2602.md) | Whole-exome sequencing and variant analysis; short-read bulk RNA-seq alignment and quantification; PacBio long-read RNA-seq, transcript assembly, and isoform analysis. |
-| [Biological Big Data Analysis — KOTHEA](Workshop/BioBigdata_workshop_2607.md) | Python/pandas, statistical analysis, drug-response prediction, cancer classification, neural networks, and molecular representation learning using CCLE/CTRPv2, CancerSEEK, TCGA-BRCA, and QM9 data. |
+| [Bio Big Data Analysis — KOTHEA](Workshop/BioBigdata_workshop_2607.md) | Python/pandas, statistical analysis, drug-response prediction, cancer classification, neural networks, and molecular representation learning using CCLE/CTRPv2, CancerSEEK, TCGA-BRCA, and QM9 data. |
 | [Single-Cell RNA-seq Analysis — KSBi-BIML](Workshop/SCODA_workshop_2509.md) | AnnData and Scanpy, exploration of SCODA results, cell-type annotation, CNV and ploidy, cell–cell interactions, marker discovery, gene set enrichment, and KEGG pathway visualization. |
 | [Single-Cell RNA-seq Analysis — LAIDD](Workshop/SCODA_workshop_LAIDD_2507.md) | Scanpy fundamentals, SCODA case studies in breast cancer and ulcerative colitis, and KEGG pathway visualization for tissue microenvironment analysis and therapeutic target discovery. |
 
